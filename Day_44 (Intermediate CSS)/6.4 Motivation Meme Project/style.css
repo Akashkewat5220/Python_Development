@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+.text{
+    color: white;
+    text-align: center;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+img{
+    width: 100%;
+}
